@@ -1,0 +1,14 @@
+C:\Users\CAG-PC01\source\repos\DelegateExampleLesson1\bin\Debug\net7.0\DelegateExampleLesson1.exe
+C:\Users\CAG-PC01\source\repos\DelegateExampleLesson1\bin\Debug\net7.0\DelegateExampleLesson1.deps.json
+C:\Users\CAG-PC01\source\repos\DelegateExampleLesson1\bin\Debug\net7.0\DelegateExampleLesson1.runtimeconfig.json
+C:\Users\CAG-PC01\source\repos\DelegateExampleLesson1\bin\Debug\net7.0\DelegateExampleLesson1.dll
+C:\Users\CAG-PC01\source\repos\DelegateExampleLesson1\bin\Debug\net7.0\DelegateExampleLesson1.pdb
+C:\Users\CAG-PC01\source\repos\DelegateExampleLesson1\obj\Debug\net7.0\DelegateExampleLesson1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAG-PC01\source\repos\DelegateExampleLesson1\obj\Debug\net7.0\DelegateExampleLesson1.AssemblyInfoInputs.cache
+C:\Users\CAG-PC01\source\repos\DelegateExampleLesson1\obj\Debug\net7.0\DelegateExampleLesson1.AssemblyInfo.cs
+C:\Users\CAG-PC01\source\repos\DelegateExampleLesson1\obj\Debug\net7.0\DelegateExampleLesson1.csproj.CoreCompileInputs.cache
+C:\Users\CAG-PC01\source\repos\DelegateExampleLesson1\obj\Debug\net7.0\DelegateExampleLesson1.dll
+C:\Users\CAG-PC01\source\repos\DelegateExampleLesson1\obj\Debug\net7.0\refint\DelegateExampleLesson1.dll
+C:\Users\CAG-PC01\source\repos\DelegateExampleLesson1\obj\Debug\net7.0\DelegateExampleLesson1.pdb
+C:\Users\CAG-PC01\source\repos\DelegateExampleLesson1\obj\Debug\net7.0\DelegateExampleLesson1.genruntimeconfig.cache
+C:\Users\CAG-PC01\source\repos\DelegateExampleLesson1\obj\Debug\net7.0\ref\DelegateExampleLesson1.dll
